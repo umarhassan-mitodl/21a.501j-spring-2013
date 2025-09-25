@@ -6,6 +6,8 @@ description: Example of student work for the final term paper assignment for the
 file: /courses/21a-501j-art-craft-science-spring-2013/929eef61d1eebfbac53e8d10b375c83b_MIT21A_501JS13_Photography.pdf
 file_size: 133909
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

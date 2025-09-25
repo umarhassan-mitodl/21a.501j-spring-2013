@@ -3,6 +3,8 @@ content_type: page
 description: This section provides details on the four short written assignments and
   the final term paper required for the course, examples of student work, and links
   to related resources.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
